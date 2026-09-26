@@ -1,0 +1,15 @@
+{
+  "background_color": "#08090b",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Финансы",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Финансы",
+  "start_url": "/",
+  "theme_color": "#1e222b",
+  "categories": [
+    "finance"
+  ],
+  "description": "Учёт доходов и расходов"
+}
