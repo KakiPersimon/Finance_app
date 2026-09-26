@@ -1,0 +1,11 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Финансы",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Финансы",
+  "start_url": "/",
+  "theme_color": "#ffffff"
+}
