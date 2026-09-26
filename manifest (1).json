@@ -1,0 +1,11 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Finance",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "FNC",
+  "start_url": "/kakipersimon.github.io/Finance_app/",
+  "theme_color": "#ffffff"
+}
